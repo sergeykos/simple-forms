@@ -22,13 +22,3 @@ else {
 		document.getElementById('feedback')
 	);
 }
-
-
-
-
-
-
-// render(
-// 	<Feedback />,
-//   	document.getElementById('feedback')
-// );
