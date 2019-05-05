@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "target": "es5",
+        "jsx": "react",
+        "strictNullChecks": true
+    },
+    "include": [
+        "client/src/**/*.tsx",
+        "client/src/**/*.ts",
+        "client/src/**/*.d.ts"
+    ]
+}
